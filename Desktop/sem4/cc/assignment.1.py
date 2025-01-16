@@ -1,8 +1,13 @@
+# q1.1
+
 # i=0
 # for i in range(3):
 #     print("vishesh kumar bansal")
 
 
+
+
+# q2.1
 # a=int(input("first no"))
 # b=int(input("second no"))
 # c=int(input("third no"))
@@ -12,13 +17,15 @@
 
 
 
-
+# q2.2
 # a=input("first st")
 # b=input("second st")
 # c=input("third st")
 # print("concatination  ",a+b+c ,end=" ")
 
 
+
+# q3.1
 # for i in range(1,11):
 #     print("7 X ",i, " = ",7*i )
 
@@ -28,12 +35,14 @@
 
 
 
+
+# q3.2
 # n=int(input("enter the no to get table"))
 # for i in range(1,11):
 #     print(n," X ",i, " = ",n*i )
 
 
-
+# q3.3
 # n=int(input("enter the no to get sum"))
 # sum=0
 # for i in range(1,n+1):
@@ -46,7 +55,7 @@
 
 
 
-
+# q4.1
 # a=int(input("first no"))
 # b=int(input("second no"))
 # c=int(input("third no"))
@@ -56,7 +65,7 @@
 
 
 
-
+# q4.2
 # n=int(input("enter the no to get sum"))
 # sum=0
 # for i in range(1,n+1):
@@ -67,6 +76,7 @@
 
 
 
+# q4.3
 
 n = int(input("Enter a number: "))
 
